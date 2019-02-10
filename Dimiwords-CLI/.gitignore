@@ -1,0 +1,8 @@
+### Python ###
+# https://gist.github.com/misteraverin/464438db9638cdd1e2e1632fbd7159ac
+
+# Byte-compiled / optimized / DLL files
+
+__pycache__/
+*.py[cod]
+*$py.class
